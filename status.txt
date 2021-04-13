@@ -1,0 +1,67 @@
+
+HTTP/1.1 200 OK
+   time_namelookup:  0.233048s
+        time_connect:  0.376492s
+     time_appconnect:  0.000000s
+    time_pretransfer:  0.376561s
+       time_redirect:  0.000000s
+  time_starttransfer:  0.622630s
+          time_total:  0.622798s
+
+----------------------------------------------
+
+HTTP/1.1 200 OK
+   time_namelookup:  0.142512s
+        time_connect:  0.284920s
+     time_appconnect:  0.000000s
+    time_pretransfer:  0.284989s
+       time_redirect:  0.000000s
+  time_starttransfer:  0.429052s
+          time_total:  0.429132s
+
+----------------------------------------------
+
+HTTP/1.1 200 OK
+   time_namelookup:  0.024575s
+        time_connect:  0.154996s
+     time_appconnect:  0.000000s
+    time_pretransfer:  0.155066s
+       time_redirect:  0.000000s
+  time_starttransfer:  0.298699s
+          time_total:  0.298781s
+
+----------------------------------------------
+
+HTTP/1.1 200 OK
+   time_namelookup:  0.144394s
+        time_connect:  0.288276s
+     time_appconnect:  0.000000s
+    time_pretransfer:  0.288403s
+       time_redirect:  0.000000s
+  time_starttransfer:  0.449699s
+          time_total:  0.449805s
+
+----------------------------------------------
+
+HTTP/1.1 200 OK
+   time_namelookup:  0.130045s
+        time_connect:  0.295545s
+     time_appconnect:  0.000000s
+    time_pretransfer:  0.295613s
+       time_redirect:  0.000000s
+  time_starttransfer:  0.439063s
+          time_total:  0.439136s
+
+----------------------------------------------
+
+HTTP/1.1 200 OK
+   time_namelookup:  0.024294s
+        time_connect:  0.155575s
+     time_appconnect:  0.000000s
+    time_pretransfer:  0.155640s
+       time_redirect:  0.000000s
+  time_starttransfer:  0.292363s
+          time_total:  0.292448s
+
+----------------------------------------------
+
